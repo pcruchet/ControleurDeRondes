@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RondierProjet (Multitabs+Commentaires+Synchronisation).iml" filepath="$PROJECT_DIR$/RondierProjet (Multitabs+Commentaires+Synchronisation).iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/bottom-bar/bottom-bar.iml" filepath="$PROJECT_DIR$/library/bottom-bar/bottom-bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/camereaview-master/camereaview-master.iml" filepath="$PROJECT_DIR$/library/camereaview-master/camereaview-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>

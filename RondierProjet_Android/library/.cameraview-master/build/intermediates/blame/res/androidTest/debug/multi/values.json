@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/cameraview-master/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endColumn": 45,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "/home/USERS/ELEVES/SNIR2015/therbron/.android/build-cache/59e54a5582f6ecca1cb6e4dd295326ba6c529605/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/cameraview-master/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1018
+                    }
+                }
+            }
+        ]
+    }
+]

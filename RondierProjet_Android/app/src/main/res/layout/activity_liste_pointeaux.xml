@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".InterfaceRondier">
+
+    <ViewFlipper
+        android:id="@+id/vfDisposition"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!--Liste et saisie de main courante-->
+        <ScrollView
+            android:id="@+id/svMainCourante"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/bb_height">
+
+            <LinearLayout
+                android:id="@+id/layoutMainCourante"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:focusableInTouchMode="true">
+
+                <!--<LinearLayout
+                    android:id="@+id/layoutListeMainsCourantes"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="46dp"
+                        android:text="1: Lumière sortie de secours en panne"
+                        android:id="@+id/textViewMainCourante1" />
+                </LinearLayout>-->
+
+            </LinearLayout>
+        </ScrollView>
+
+        <!--Liste des pointeaux-->
+        <ScrollView
+            android:id="@+id/svListePointeau"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/bb_height">
+
+            <LinearLayout
+                android:id="@+id/layoutListePointeaux"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/buttonPhoto"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_centerVertical="true"
+                android:layout_alignRight="@+id/buttonPhoto"
+                android:layout_alignEnd="@+id/buttonPhoto">
+            </LinearLayout>
+        </ScrollView>
+
+        <!--Liste des photos-->
+        <ScrollView
+            android:id="@+id/svPhoto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/bb_height">
+
+            <LinearLayout
+                android:id="@+id/layoutPhotos"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <!--<ImageView
+                    android:layout_width="350dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-200dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/sortie_secours"/>
+
+                <ImageView
+                    android:layout_width="350dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="-370dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@drawable/infiltration"/>-->
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </ViewFlipper>
+
+    <com.roughike.bottombar.BottomBar
+        android:id="@+id/bottombar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentBottom="true"
+        app:bb_tabXmlResource="@xml/bottombar"
+        app:bb_behavior="shifting|underNavbar"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/terminer_ronde"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/bottombar"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="2dp"
+        android:layout_marginBottom="54dp"
+        android:src="@drawable/ic_terminer_ronde"/>
+
+</RelativeLayout>

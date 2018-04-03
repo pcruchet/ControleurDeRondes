@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable nom="CameraView"><attr nom="android:adjustViewBounds"/><attr format="enum" nom="facing">
+            
+            <enum nom="back" value="0"/>
+            
+            <enum nom="front" value="1"/>
+        </attr><attr format="string" nom="aspectRatio"/><attr format="boolean" nom="autoFocus"/><attr format="enum" nom="flash">
+            
+            <enum nom="off" value="0"/>
+            
+            <enum nom="on" value="1"/>
+            
+            <enum nom="torch" value="2"/>
+            
+            <enum nom="auto" value="3"/>
+            
+            <enum nom="redEye" value="4"/>
+        </attr></declare-styleable>
+    <style nom="Widget.CameraView" parent="android:Widget">
+        <item nom="android:adjustViewBounds">false</item>
+        <item nom="facing">back</item>
+        <item nom="aspectRatio">4:3</item>
+        <item nom="autoFocus">true</item>
+        <item nom="flash">auto</item>
+    </style>
+</resources>

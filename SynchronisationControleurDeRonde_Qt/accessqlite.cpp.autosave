@@ -1,0 +1,6 @@
+#include "gestionsqlite.h"
+
+AccesSQLite::AccesSQLite()
+{
+    
+}

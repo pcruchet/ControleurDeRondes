@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="boutonAjouterPhoto" type="id"/>
+    <item name="boutonAjouterMainCourante" type="id"/>
+    <item name="txtViewAucunPointeauPhoto" type="id"/>
+    <item name="txtViewAucunPointeauMainCourante" type="id"/>
+    <item name="textViewMainCourante" type="id"/>
+    <item name="layoutListeMaincsCourantesPointeau" type="id"/>
+    <item name="layoutListeMainsCourantes" type="id"/>
+    <item name="layoutListePhotos" type="id"/>
+</resources>

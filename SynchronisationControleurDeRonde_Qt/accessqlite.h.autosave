@@ -1,0 +1,20 @@
+#ifndef ACCESSQLITE_H
+#define ACCESSQLITE_H
+
+#include <QFile>
+#include <QSqlDatabase>
+
+class AccesSQLite
+{
+public:
+    AccesSQLite();
+    
+private:
+    QSqlDatabase bddSQLite;
+    QSqlDatabase bddMySQL;
+    
+    QSqlQuery requeteSQLite;
+    QSqlQuery requeteMySQL;
+};
+
+#endif // ACCESSQLITE_H

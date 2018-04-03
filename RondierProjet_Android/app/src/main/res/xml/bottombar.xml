@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_mainsCourantes"
+        icon="@drawable/ic_maincourante"
+        title="Main courante"/>
+    <tab
+        id="@+id/tab_listePointeaux"
+        icon="@drawable/ic_listepointeau"
+        title="Liste des pointeaux"/>
+    <tab
+        id="@+id/tab_photos"
+        icon="@drawable/ic_photos"
+        title="Photos"/>
+</tabs>

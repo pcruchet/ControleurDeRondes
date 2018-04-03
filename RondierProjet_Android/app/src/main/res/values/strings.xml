@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rondier</string>
+    <string name="flash_auto">Flash auto</string>
+    <string name="flash_off">Flash off</string>
+    <string name="flash_on">Flash on</string>
+    <string name="retourne_camera">Retourner camera</string>
+    <string name="confirmation_permission_camera">Cette application a besoin de la permision d\'utiliser la camera.</string>
+    <string name="photo_prise">Photo prise.</string>
+    <string name="permission_camera_non_accorde">Il n\'est pas possible de prendre une photo si l\'application n\'a pas l\'autorisation d\'utiliser la camera.</string>
+    <string name="demande_validité_photo">Photo convenable ?</string>
+    <string name="oui">Oui</string>
+    <string name="annuler">Annuler</string>
+    <string name="continuer">Continuer</string>
+    <string name="terminer">Terminer</string>
+    <string name="annuler_photo">Reprendre une photo</string>
+    <string name="aucun_point_scanne_photo">Au moins un point doit avoir été scanné pour qu\'une photo puisse être prise.</string>
+    <string name="aucun_point_scanne_main_courante">Au moins un point doit avoir été scanné pour qu\'une main courante puisse être saisie.</string>
+    <string name="demande_terminer_ronde">Voulez-vous vraiment terminer la ronde en cours ?</string>
+    <string name="dernier_pointeau">Le dernier pointeau de la ronde a été scanné, voulez-vous terminer cette ronde ou la continuer ?</string>
+    <string name="tag_log">Rondier</string>
+</resources>

@@ -1,0 +1,158 @@
+[
+    {
+        "outputFile": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/E:\\Android\\Projects\\RondierProjet (Multitabs+Commentaires+Synchronisation)\\library\\camereaview-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/E:\\Android\\Projects\\RondierProjet (Multitabs+Commentaires+Synchronisation)\\library\\camereaview-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 973
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/library/camereaview-master/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/library/camereaview-master/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 973
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/E:\\home\\USERS\\ELEVES\\SNIR2015\\therbron\\Workspace\\Android\\RondierProjet (Multitabs+Commentaires+Synchronisation)\\library\\camereaview-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/E:\\home\\USERS\\ELEVES\\SNIR2015\\therbron\\Workspace\\Android\\RondierProjet (Multitabs+Commentaires+Synchronisation)\\library\\camereaview-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 973
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/E:\\home\\USERS\\ELEVES\\SNIR2015\\therbron\\Workspace\\Android\\RondierProjet (Multitabs+Commentaires)\\library\\camereaview-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/E:\\home\\USERS\\ELEVES\\SNIR2015\\therbron\\Workspace\\Android\\RondierProjet (Multitabs+Commentaires)\\library\\camereaview-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 973
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/E:\\home\\USERS\\ELEVES\\SNIR2015\\therbron\\Workspace\\Android\\RondierProjet (Multitabs+Commentaires)\\E:\\Projet\\RondierProjet (Multitabs+Commentaires)\\library\\camereaview-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/E:\\home\\USERS\\ELEVES\\SNIR2015\\therbron\\Workspace\\Android\\RondierProjet (Multitabs+Commentaires)\\E:\\Projet\\RondierProjet (Multitabs+Commentaires)\\library\\camereaview-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 973
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/E:\\home\\USERS\\ELEVES\\SNIR2015\\therbron\\Workspace\\Android\\RondierProjet (Multitabs+Commentaires)\\E:\\Android\\Projects\\RondierProjet (Multitabs+Commentaires)\\library\\camereaview-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1018
+                },
+                "from": {
+                    "file": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/RondierProjet (Multitabs+Commentaires+Synchronisation)/E:\\home\\USERS\\ELEVES\\SNIR2015\\therbron\\Workspace\\Android\\RondierProjet (Multitabs+Commentaires)\\E:\\Android\\Projects\\RondierProjet (Multitabs+Commentaires)\\library\\camereaview-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 973
+                    }
+                }
+            }
+        ]
+    }
+]

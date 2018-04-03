@@ -1,0 +1,1 @@
+include ':app', ':library:bottom-bar', ':library:camereaview-master'

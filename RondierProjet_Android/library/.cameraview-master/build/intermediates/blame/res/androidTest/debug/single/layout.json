@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/cameraview-master/library/build/intermediates/res/merged/androidTest/debug/layout/activity_camera_view.xml",
+        "source": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/cameraview-master/library/src/androidTest/res/layout/activity_camera_view.xml"
+    },
+    {
+        "merged": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/cameraview-master/library/build/intermediates/res/merged/androidTest/debug/layout/surface_view.xml",
+        "source": "/home/USERS/ELEVES/SNIR2015/therbron/Workspace/Android/cameraview-master/library/build/intermediates/bundles/debug/res/layout/surface_view.xml"
+    }
+]
